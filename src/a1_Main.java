@@ -1,4 +1,4 @@
-public class Main {
+public class a1_Main {
     public static void main(String[] args){
 
         //This is my first java program
